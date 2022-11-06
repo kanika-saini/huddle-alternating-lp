@@ -401,6 +401,9 @@ body {
 
 /* 550px */
 @media only screen and (max-width: 34.4em) {
+  .header {
+    background-image: url(../images/bg-hero-mobile.svg);
+  }
   .nav-logo-box {
     width: 45%;
   }
